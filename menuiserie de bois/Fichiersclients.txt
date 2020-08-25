@@ -1,0 +1,41 @@
+
+**********Affichage de l' employe n '1***********
+
+ Le nom du client est: 1
+
+ Le prenom du client est: 1
+
+ Le numero de la carte d'identite est:1
+
+ L'adresse du client est: 1
+
+ Le numero de telephone  du client est: 1
+
+         ---------------------------   
+
+ Le nombre des amenagements  est  : 1
+ 
+ La commande numero  1  est   : 
+
+
+ L' amenagement choisit  est de type  Exterieur
+
+ L'amenagement est :   1
+
+ Longueur de l'amenagement est :   1
+
+ Largeur de l'amenagement est :   1
+
+ Epaissseur de l'amenagement est :   1
+
+ La couleur de l'amenagement est  :   1
+
+ Type de l'amenagement  est:   1
+
+        ------------------------- 
+  
+ Le prix des commandes est : 1   DT  
+ 
+ La date du debut de commande est : 1/1/1
+ 
+ La date de livration de la commande est : 1/1/1

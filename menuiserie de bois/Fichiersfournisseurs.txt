@@ -1,0 +1,28 @@
+
+**********Affichage de le fournisseur n '1***********
+
+ Le nom de l'entreprise fournisseur est: 3
+
+ Le numero de l'entreprise fournisseur est: 3
+
+----Afichage des matieres premiers-----
+
+ Le nombre en matiere premiere est: 3
+
+ La matiere premiere choisit    est : 3
+
+ Le nombre de la matiere premiere choisit est : 3
+
+ La matiere premiere choisit    est : 3
+
+ Le nombre de la matiere premiere choisit est : 3
+
+ La matiere premiere choisit    est : 3
+
+ Le nombre de la matiere premiere choisit est : 3
+
+ Le prix total est: 27 Dinars
+                -------
+ 
+ La date de livration des matieres premieres est : 3/3/3
+ est : 1/1/1

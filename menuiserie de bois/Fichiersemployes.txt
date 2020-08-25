@@ -1,0 +1,28 @@
+
+--------Affichage de l' employe n '1-----------
+
+ le numero de l'employe est :12
+
+ le nom de l'employe est :2
+
+ le prenom de l'employe est :2
+
+ le numero de la carte d'identite de l'employe est :2
+
+ la date de naissance est
+2/2/1995
+
+ le sexe de l'employe est :1
+
+ le numero de telephone de l'employe est :1
+
+ la ville actuelle de l'employe est :1
+
+ le statut matrimoniale est:1
+
+ le nbr des enfants de l'employe est:1
+
+ conge paye 
+La fonction de l'employe est le tracage des plans des elements 
+
+ Salaire Net Percu est :    -29998  DT 

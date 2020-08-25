@@ -1,0 +1,50 @@
+
+**********Affichage de l'atelier n '1***********
+
+ C'est un atelier de tracage des plans des elements de menuiseries 
+ 
+ Le nombre de machines trouvees dans cet atelier est : 3
+
+ Les machines utilisees dans cet atelier sont  : 
+
+ Tronconneuse
+
+ scie
+
+ machinedetracage
+
+**********Affichage de l'atelier n '2***********
+ 
+ C'est un atelier de decoupage, assemblage et montage des elements
+ 
+ Le nombre de machines trouvees dans cet atelier est : 2
+
+ Les machines utilisees dans cet atelier sont  : 
+
+ machinededecoupage
+
+ scie
+
+**********Affichage de l'atelier n '3***********
+ 
+  C'est un atelier de vitrage et la fermeture des elements de menuiseries 
+ 
+ Le nombre de machines trouvees dans cet atelier est : 3
+
+ Les machines utilisees dans cet atelier sont  : 
+
+ Machinedevitrage
+
+ perceuse
+
+ machine_de_fermeture
+
+**********Affichage de l'atelier n '4***********
+ 
+ C'est un atelier de peinture et la pose des elements sur les chantiers
+ 
+ Le nombre de machines trouvees dans cet atelier est : 1
+
+ Les machines utilisees dans cet atelier sont  : 
+
+ Machine_de_peinture
